@@ -1,1 +1,5 @@
-printf("de rien");
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("de rien");
+    }
+}
